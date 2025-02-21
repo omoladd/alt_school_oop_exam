@@ -41,7 +41,7 @@ Manages a collection of Expense objects.
 
 # Cloning Instructions
 
-1. Copy the repository page and copy the HTTPS URL [https://github.com/omoladd/alt_school_oop_exam.git]
+1. Copy the repository page and copy the HTTPS URL [https://github.com/omoladd/alt_school_oop_exam.git](https://github.com/omoladd/alt_school_oop_exam.git) 
 2. Open your terminal or command prompt
 3. Navigate to your desired directory using cd your/folder/path
 4. Proceed to clone the repository in the path using `git clone [repo URL]`
